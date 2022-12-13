@@ -70,7 +70,7 @@ $data->{server_session} = $cbc->decrypt(decode_base64($mech->content()),
                                         $data->{key},
                                         $data->{iv});
 
-# parse the json data from the server so we get the sessiontoekn
+# parse the json data from the server so we get the sessiontoken
 $data->{server} = from_json($data->{server_session});
 
 # build the server and device encryption tokens
