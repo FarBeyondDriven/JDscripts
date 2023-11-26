@@ -20,6 +20,10 @@ Unskips downloads that got automatically skipped for different reasons, examples
 
 Simple script to automatically convert specific filetypes to mp3 after downlaoding.
 
+### ForceReconnectOnIdle.js
+
+Force trigger the reconnect function in jDownloader if downloads are stalled for 3 minutes.
+
 ## Tools
 
 ### jdownloader_api_connect.pl (perl)
