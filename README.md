@@ -24,6 +24,10 @@ Simple script to automatically convert specific filetypes to mp3 after downlaodi
 
 Force trigger the reconnect function in jDownloader if downloads are stalled for 3 minutes.
 
+### CheckFilesExists.js
+
+Script for a toolbar button to check if files in download list already exist and disable/remove them before starting downloads.
+
 ## Tools
 
 ### jdownloader_api_connect.pl (perl)
