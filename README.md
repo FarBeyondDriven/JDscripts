@@ -28,6 +28,10 @@ Force trigger the reconnect function in jDownloader if downloads are stalled for
 
 Script for a toolbar button to check if files in download list already exist and disable/remove them before starting downloads.
 
+### ResetLinksOnPluginDefect.js
+
+Script to reset links on plugin defect messages. Set Interval Trigger.
+
 ## Tools
 
 ### jdownloader_api_connect.pl (perl)
