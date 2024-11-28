@@ -1,4 +1,4 @@
-// Handle download errors
+// Handle download errors (FBD)
 // Trigger Required: Interval
 
 var links = getAllDownloadLinks();
