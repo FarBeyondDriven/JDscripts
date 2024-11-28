@@ -2,7 +2,7 @@
 // 
 // Trigger : "DownloadList Contextmenu Button Pressed"
 //
-// Add a custom meny entry to the DownloadList Contect menu, name it "Copy to LinkGrabber"
+// Add a custom meny entry to the DownloadList Context menu, name it "Copy to LinkGrabber"
 // (or to any other name, that you also need to customize below)
 
 disablePermissionChecks();
