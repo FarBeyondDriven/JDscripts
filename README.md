@@ -2,7 +2,12 @@
 JDownloader Event Scripter Scripts
 
 For more scripts and examples check out the JDownloader forum thread for Event Scripts:
-https://board.jdownloader.org/showthread.php?t=70525
+
+  -> https://board.jdownloader.org/showthread.php?t=70525
+
+and the new dedicated sub-forum for user created scripts:
+  
+  -> https://board.jdownloader.org/forumdisplay.php?f=52
 
 ### CopyLinksToLinkGrabber.js
 
@@ -31,6 +36,10 @@ Script for a toolbar button to check if files in download list already exist and
 ### ResetLinksOnPluginDefect.js
 
 Script to reset links on plugin defect messages. Set Interval Trigger.
+
+### PauseDownloadsDuringExtraction.js
+
+Pauses running downloads during archive extraction. Only use if you have resumable downloads or you don't care for downloads restarting.
 
 ## Tools
 
