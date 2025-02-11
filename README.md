@@ -41,6 +41,11 @@ Script to reset links on plugin defect messages. Set Interval Trigger.
 
 Pauses running downloads during archive extraction. Only use if you have resumable downloads or you don't care for downloads restarting.
 
+### MoveMirrorLinks.js
+
+Moves mirror links to a separate package if download started, even when those links are in a different package and/or disabled.
+
+
 ## Tools
 
 ### jdownloader_api_connect.pl (perl)
