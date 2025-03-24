@@ -45,6 +45,9 @@ Pauses running downloads during archive extraction. Only use if you have resumab
 
 Moves mirror links to a separate package if download started, even when those links are in a different package and/or disabled.
 
+### PackageSorter.js
+
+Sorts files in packages descending with special handling for TV shows (part files descending, episodes ascending)
 
 ## Tools
 
