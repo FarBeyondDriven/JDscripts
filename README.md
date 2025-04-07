@@ -49,6 +49,10 @@ Moves mirror links to a separate package if download started, even when those li
 
 Sorts files in packages descending with special handling for TV shows (part files descending, episodes ascending)
 
+### enableHostsAtNight.js
+
+Enables predefined hosters at night and disables them again in the morning for automated, unattended downloads
+
 ## Tools
 
 ### jdownloader_api_connect.pl (perl)
