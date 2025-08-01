@@ -13,6 +13,10 @@ and the new dedicated sub-forum for user created scripts:
 
 Copies selected links in the download list back to the linkgrabber.
 
+### CopyChecksumToMirrors.js
+
+Copies available checksums to mirror links based on filename.
+
 ### ExportDownloadList.js
 
 Exports a short list of all packages in the download list and saves it in your default download folder (appends if the file already exists).
